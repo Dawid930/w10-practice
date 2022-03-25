@@ -11,7 +11,7 @@ if (min < max){
 //min < max ? console.log("Min lower then max") : console.log("Min is NOT lower then max")
 
 
-console.log(`Min ${min < max ? "" : "NOT"} lower then max`);
+console.log(`Min ${min < max ? "" : "is NOT"} lower then max`);
 
 
 

@@ -13,7 +13,7 @@ const myFun = async () => {
     
     try {
         let result = ""
-        result = await showMessageLater('hello5')
+        result = await showMessageLater("hello5")
         console.log(result);
         result = await showMessageLater("hello6")
         console.log(result);
